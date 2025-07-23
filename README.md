@@ -14,8 +14,3 @@ Experience the dashboard in action here:
 - Integration of ML model predictions for enhanced accuracy
 - Clean, accessible UI for fast interpretation
 
-## 🛠️ Technologies Used
-- Python
-- Streamlit
-- FastAPI
-- CatBoost
